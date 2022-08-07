@@ -1,5 +1,5 @@
 - Hi, I’m Nivedita 
-- I sepent the last one year upskilling myself by doing my Masters in Business Analytics.
+- I spent the last one year upskilling myself by doing my Masters in Business Analytics.
 - By using R, Python, SQL, Tableau & Dataiku, I learnt the nuances of data analysis, data viz, NLP & machine learning. 
 - I have showcased my projects here on GitHub. 
 
